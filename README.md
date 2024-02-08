@@ -3,7 +3,7 @@
 1.Install Git on you PC/Mac
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-2.Download Python3 and install
+2.Download Python3 and install(Version for the project 3.12)
 https://www.python.org/downloads/ 
 
 3.Verify Python version(For Python 3)
